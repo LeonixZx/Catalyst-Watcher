@@ -1,0 +1,10 @@
+{
+  "OpenAI ChatGPT": {
+    "platform": "OpenAI ChatGPT",
+    "token": "sk-js1VoRt-uQz2_xa84BPtUhTitXZw8K536HbTm06ADBT3BlbkFJayxvpWxl1DowvyucUZBfYVOnvICASPne5DyLxkZnMA"
+  },
+  "AI Community Platform v2": {
+    "platform": "AI Community Platform",
+    "token": "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"
+  }
+}
