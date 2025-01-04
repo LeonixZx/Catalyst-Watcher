@@ -1,0 +1,426 @@
+[
+  {
+    "symbol": "^KLSE",
+    "name": "(US-MY Indices) FTSE Bursa Malaysia KLCI"
+  },
+  {
+    "symbol": "^GSPC",
+    "name": "(US-US Indices) S&P 500"
+  },
+  {
+    "symbol": "^DJI",
+    "name": "(US-US Indices) Dow Jones Industrial Average"
+  },
+  {
+    "symbol": "^IXIC",
+    "name": "(US-US Indices) NASDAQ Composite"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "(US) Apple Inc."
+  },
+  {
+    "symbol": "MSFT",
+    "name": "(US) Microsoft Corporation"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "(US) Alphabet Inc."
+  },
+  {
+    "symbol": "AMZN",
+    "name": "(US) Amazon.com Inc."
+  },
+  {
+    "symbol": "META",
+    "name": "(US) Meta Platforms Inc."
+  },
+  {
+    "symbol": "TSLA",
+    "name": "(US) Tesla Inc."
+  },
+  {
+    "symbol": "NVDA",
+    "name": "(US) NVIDIA Corporation"
+  },
+  {
+    "symbol": "JPM",
+    "name": "(US) JPMorgan Chase & Co."
+  },
+  {
+    "symbol": "JNJ",
+    "name": "(US) Johnson & Johnson"
+  },
+  {
+    "symbol": "V",
+    "name": "(US) Visa Inc."
+  },
+  {
+    "symbol": "WMT",
+    "name": "(US) Walmart Inc."
+  },
+  {
+    "symbol": "PG",
+    "name": "(US) Procter & Gamble Co."
+  },
+  {
+    "symbol": "MA",
+    "name": "(US) Mastercard Inc."
+  },
+  {
+    "symbol": "DIS",
+    "name": "(US) The Walt Disney Company"
+  },
+  {
+    "symbol": "NFLX",
+    "name": "(US) Netflix Inc."
+  },
+  {
+    "symbol": "5347",
+    "name": "(MY) Tenaga Nasional Berhad"
+  },
+  {
+    "symbol": "1023",
+    "name": "(MY) CIMB Group Holdings Berhad"
+  },
+  {
+    "symbol": "5183",
+    "name": "(MY) Petronas Chemicals Group Berhad"
+  },
+  {
+    "symbol": "6012",
+    "name": "(MY) Maxis Berhad"
+  },
+  {
+    "symbol": "1961",
+    "name": "(MY) IOI Corporation Berhad"
+  },
+  {
+    "symbol": "5225",
+    "name": "(MY) IHH Healthcare Berhad"
+  },
+  {
+    "symbol": "1155",
+    "name": "(MY) Malayan Banking Berhad"
+  },
+  {
+    "symbol": "6742",
+    "name": "(MY) YTL Power International Berhad"
+  },
+  {
+    "symbol": "5285",
+    "name": "(MY) SD Guthrie Berhad"
+  },
+  {
+    "symbol": "4863",
+    "name": "(MY) Telekom Malaysia Berhad"
+  },
+  {
+    "symbol": "5819",
+    "name": "(MY) Hong Leong Bank Berhad"
+  },
+  {
+    "symbol": "3182",
+    "name": "(MY) Genting Berhad"
+  },
+  {
+    "symbol": "4715",
+    "name": "(MY) Genting Malaysia Berhad"
+  },
+  {
+    "symbol": "7277",
+    "name": "(MY) Dialog Group Berhad"
+  },
+  {
+    "symbol": "5235",
+    "name": "(MY) KLCC Property Holdings Berhad"
+  },
+  {
+    "symbol": "6888",
+    "name": "(MY) Axiata Group Berhad"
+  },
+  {
+    "symbol": "5681",
+    "name": "(MY) Petronas Gas Berhad"
+  },
+  {
+    "symbol": "3816",
+    "name": "(MY) MISC Berhad"
+  },
+  {
+    "symbol": "5168",
+    "name": "(MY) Hartalega Holdings Berhad"
+  },
+  {
+    "symbol": "5246",
+    "name": "(MY) Westports Holding Berhad"
+  },
+  {
+    "symbol": "1066",
+    "name": "(MY) RHB Bank Berhad"
+  },
+  {
+    "symbol": "5249",
+    "name": "(MY) IOI Properties Group Berhad"
+  },
+  {
+    "symbol": "4197",
+    "name": "(MY) Sime Darby Plantation Berhad"
+  },
+  {
+    "symbol": "6033",
+    "name": "(MY) Petronas Dagangan Berhad"
+  },
+  {
+    "symbol": "2445",
+    "name": "(MY) Kuala Lumpur Kepong Berhad"
+  },
+  {
+    "symbol": "0900",
+    "name": "(MY-ACE) GETS Global Berhad"
+  },
+  {
+    "symbol": "0010",
+    "name": "(MY-ACE) Iris Corporation Berhad"
+  },
+  {
+    "symbol": "0036",
+    "name": "(MY-ACE) Key Alliance Group Berhad"
+  },
+  {
+    "symbol": "0055",
+    "name": "(MY) Sersol Berhad"
+  },
+  {
+    "symbol": "0056",
+    "name": "(MY) NCT Alliance Berhad"
+  },
+  {
+    "symbol": "0072",
+    "name": "(MY-ACE) AT Systematization Berhad"
+  },
+  {
+    "symbol": "0078",
+    "name": "(MY) GDEX Berhad"
+  },
+  {
+    "symbol": "0079",
+    "name": "(MY) Aldrich Resources Berhad"
+  },
+  {
+    "symbol": "0080",
+    "name": "(MY-ACE) Straits Inter Logistics Berhad"
+  },
+  {
+    "symbol": "0082",
+    "name": "(MY-ACE) Green Ocean Corporation Berhad"
+  },
+  {
+    "symbol": "0092",
+    "name": "(MY-ACE) Mtouche Technology Berhad"
+  },
+  {
+    "symbol": "0111",
+    "name": "(MY-ACE) K-One Technology Berhad"
+  },
+  {
+    "symbol": "0116",
+    "name": "(MY) Inari Amertron Berhad"
+  },
+  {
+    "symbol": "0122",
+    "name": "(MY) Advance Information Marketing Berhad"
+  },
+  {
+    "symbol": "0127",
+    "name": "(MY-ACE) JHM Consolidation Berhad"
+  },
+  {
+    "symbol": "ADBE",
+    "name": "(US-Shariah) Adobe Inc."
+  },
+  {
+    "symbol": "CSCO",
+    "name": "(US-Shariah) Cisco Systems, Inc."
+  },
+  {
+    "symbol": "INTC",
+    "name": "(US-Shariah) Intel Corporation"
+  },
+  {
+    "symbol": "ORCL",
+    "name": "(US-Shariah) Oracle Corporation"
+  },
+  {
+    "symbol": "CRM",
+    "name": "(US-Shariah) Salesforce.com, Inc."
+  },
+  {
+    "symbol": "ABBV",
+    "name": "(US-Shariah) AbbVie Inc."
+  },
+  {
+    "symbol": "ABT",
+    "name": "(US-Shariah) Abbott Laboratories"
+  },
+  {
+    "symbol": "BMY",
+    "name": "(US-Shariah) Bristol-Myers Squibb Company"
+  },
+  {
+    "symbol": "LLY",
+    "name": "(US-Shariah) Eli Lilly and Company"
+  },
+  {
+    "symbol": "MRK",
+    "name": "(US-Shariah) Merck & Co., Inc."
+  },
+  {
+    "symbol": "PFE",
+    "name": "(US-Shariah) Pfizer Inc."
+  },
+  {
+    "symbol": "UNH",
+    "name": "(US-Shariah) UnitedHealth Group Incorporated"
+  },
+  {
+    "symbol": "HD",
+    "name": "(US-Shariah) The Home Depot, Inc."
+  },
+  {
+    "symbol": "NKE",
+    "name": "(US-Shariah) NIKE, Inc."
+  },
+  {
+    "symbol": "PEP",
+    "name": "(US-Shariah) PepsiCo, Inc."
+  },
+  {
+    "symbol": "5296",
+    "name": "(MY-Shariah) Scicom (MSC) Berhad"
+  },
+  {
+    "symbol": "7106",
+    "name": "(MY-Shariah) Supermax Corporation Berhad"
+  },
+  {
+    "symbol": "7153",
+    "name": "(MY-Shariah) Kossan Rubber Industries Bhd"
+  },
+  {
+    "symbol": "5157",
+    "name": "(MY-Shariah) Tropicana Corporation Berhad"
+  },
+  {
+    "symbol": "5176",
+    "name": "(MY) Sunway Real Estate Investment Trust"
+  },
+  {
+    "symbol": "7099",
+    "name": "(MY-Shariah) ATIS Corporation Berhad"
+  },
+  {
+    "symbol": "5218",
+    "name": "(MY-Shariah) Sapura Energy Berhad"
+  },
+  {
+    "symbol": "5243",
+    "name": "(MY-Shariah) Velesto Energy Berhad"
+  },
+  {
+    "symbol": "0191",
+    "name": "(MY-Shariah) Cabnet Holdings Berhad"
+  },
+  {
+    "symbol": "5257",
+    "name": "(MY-Shariah) Eco World International Berhad"
+  },
+  {
+    "symbol": "5263",
+    "name": "(MY-Shariah) Mynews Holdings Berhad"
+  },
+  {
+    "symbol": "5273",
+    "name": "(MY-Shariah) Leong Hup International Berhad"
+  },
+  {
+    "symbol": "5281",
+    "name": "(MY-Shariah) VIZIONE HOLDINGS BERHAD"
+  },
+  {
+    "symbol": "5305",
+    "name": "(MY-Shariah) Symphony Life Berhad"
+  },
+  {
+    "symbol": "5099",
+    "name": "(MY) Capital A Berhad"
+  },
+  {
+    "symbol": "5211",
+    "name": "(MY) Sunway Berhad"
+  },
+  {
+    "symbol": "5253",
+    "name": "(MY) Econpile Holdings Berhad"
+  },
+  {
+    "symbol": "7100",
+    "name": "(MY) Uchi Technologies Berhad"
+  },
+  {
+    "symbol": "7113",
+    "name": "(MY) Top Glove Corporation Bhd"
+  },
+  {
+    "symbol": "7231",
+    "name": "(MY) Wellcall Holdings Berhad"
+  },
+  {
+    "symbol": "7803",
+    "name": "(MY) Pestech International Berhad"
+  },
+  {
+    "symbol": "8869",
+    "name": "(MY) Press Metal Aluminium Holdings Berhad"
+  },
+  {
+    "symbol": "9059",
+    "name": "(MY) TSH Resources Berhad"
+  },
+  {
+    "symbol": "0001",
+    "name": "(MY) Supercomnet Technologies Berhad"
+  },
+  {
+    "symbol": "0005",
+    "name": "(MY-ACE) Ucrest Berhad"
+  },
+  {
+    "symbol": "0028",
+    "name": "(MY-ACE) Scope Industries Berhad"
+  },
+  {
+    "symbol": "0041",
+    "name": "(MY) Hong Seng Consolidated Berhad"
+  },
+  {
+    "symbol": "0058",
+    "name": "(MY) JcbNext Berhad"
+  },
+  {
+    "symbol": "1015",
+    "name": "(MY) Ammb Holdings Berhad"
+  },
+  {
+    "symbol": "4707",
+    "name": "(MY) Nestle (Malaysia) Berhad"
+  },
+  {
+    "symbol": "0064",
+    "name": "(MY) Efficient E-Solutions Berhad"
+  },
+  {
+    "symbol": "5238",
+    "name": "(MY) AirAsia X Berhad"
+  }
+]
